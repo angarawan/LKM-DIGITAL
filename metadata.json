@@ -1,0 +1,6 @@
+{
+  "name": "LKM DIGITAL PJOK – SMA NEGERI 1 TEJAKULA",
+  "description": "Aplikasi Lembar Kerja Murid (LKM) Digital PJOK SMA Negeri 1 Tejakula berbasis Kurikulum Merdeka dan Deep Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
